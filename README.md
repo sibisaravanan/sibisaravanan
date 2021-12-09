@@ -9,4 +9,3 @@
 
 [![Sibi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sibisaravanan&theme=xcode)]()
 
-![AWS Certified Solutions Architect - Associate Badge](https://user-images.githubusercontent.com/33645338/145385388-1efc436f-8d97-4b4c-ab82-5eaa56aa69d4.png)
