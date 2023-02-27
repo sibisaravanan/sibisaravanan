@@ -4,6 +4,4 @@
 
 [![AWS: Certified Solutions Architect Associate](https://github.com/sibisaravanan/sibisaravanan/blob/main/certificates/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/715d3888-c750-4ef8-81a9-d2890c695324/public_url)  [![GCP: Certified Associate Cloud Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/23256917)](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/23256917)  [![HashiCorp Certified: Terraform Associate](certificates/hashicorp-certified-terraform-associate.png)](https://www.credly.com/badges/1042e7b1-9bf8-4e56-ac54-beb048352d72/public_url)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sibisaravanan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]() [![Sibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibisaravanan)]() 
-
-[![Sibi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sibisaravanan&theme=xcode)]()
+[![Sibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibisaravanan)]() 
